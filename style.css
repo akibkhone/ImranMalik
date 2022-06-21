@@ -1,0 +1,14 @@
+.hero-social-link a {
+    color: #ffff;
+    margin: 0 8px;
+    font-size: 18px;
+}
+
+a { color: inherit; }
+
+input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[type="button"].fcf-btn-block {
+    width: 100%;
+}
+
+/* testismonial */
+
